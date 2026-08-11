@@ -1,0 +1,20 @@
+MIT Lisence
+
+Copyright (C) 2026 WP Bloggar contributors
+
+Everyone is permitted to copy and distribute verbatim copies
+of this license document, but changing it is not allowed.
+
+                            Preamble
+
+The licenses for most software are designed to take away your freedom to
+share and change it. By contrast, the GNU General Public License is
+intended to guarantee your freedom to share and change free software--to
+make sure the software is free for all its users.
+
+This project is intended to be distributed under the GNU General Public
+License, version 2 or any later version, consistent with common WordPress
+plugin licensing practice.
+
+(c) Niranjan Meegammana
+
